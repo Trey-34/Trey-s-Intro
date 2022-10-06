@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MMClubhouse
+- 👋 Hi, My names Trey
 - 👀 I’m interested in learning more about python and coding/scripting.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
